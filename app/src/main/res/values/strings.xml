@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CorrexApp</string>
+    <string name="my_classes">Minhas Turmas</string>
+    <string name="add_class">Adicionar Turma</string>
+    <string name="no_classes_created_yet">Nenhuma turma criada. Toque em + para começar.</string>
+    <string name="students_count">%1$d alunos</string>
+    <string name="class_name_required">Nome da Turma *</string>
+    <string name="subject_optional">Disciplina (Opcional)</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="home">Início</string>
+    <string name="classes">Turmas</string>
+    <string name="activities">Atividades</string>
+    <string name="create_exam">Criar Exame</string>
+    <string name="back">Voltar</string>
+    <string name="save_exam">Salvar Exame</string>
+    <string name="exam_name">Nome do Exame</string>
+    <string name="subject">Disciplina</string>
+    <string name="number_of_questions">Número de Questões</string>
+    <string name="alternatives">Alternativas</string>
+    <string name="answer_key">Gabarito</string>
+
+</resources>
